@@ -12,7 +12,7 @@
 
 ## Derleme Talimatları 
  - make 
- - ./program
+ - ./main
  
 ## Buildin Komutları
  - cd :  Programın Bulunduğu Dizini Değiştiren Komut
