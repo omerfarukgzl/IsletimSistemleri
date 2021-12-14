@@ -1,3 +1,3 @@
-# "32. Grup İşletim Sistemleri "
+"32. Grup İşletim Sistemleri "
 
  
